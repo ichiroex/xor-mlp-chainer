@@ -18,6 +18,9 @@ Multilayer perceptron
  - 入力層2ユニット
  - 隠れ層2ユニット (1層)
  - 出力層1ユニット 
+
+ 回帰問題としてXORを学習する。
+ 予測する時は閾値を設ける必要あり。
  @author ichiroex
 """
 
